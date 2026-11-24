@@ -15,6 +15,8 @@ public class Git_2026345 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Andrea-2026345");
+        System.out.println("CCT");
     }
     
 }
